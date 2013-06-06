@@ -1,0 +1,45 @@
+﻿.win-content {
+background: #fff;
+}
+
+.win-header {
+    color: #fff;
+    background: #ff6a00;
+}
+#headline {
+    display: block;
+    font-size: 28px;
+    line-height: 14px !important;
+    padding: 30px 0px 30px 0px;
+}
+
+#linkAdvertisement {
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    clear: both;
+    display: block;
+    margin: 10px 0px;
+    width: 100%;
+    padding: 0px 0px;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: #ffffff;
+    background: #ff6a00;
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.5);
+
+        background: -ms-linear-gradient(top,  rgb(248,159,109) 0%,rgb(245,131,69) 25%,rgb(243,100,33) 50%,rgb(245,131,69) 75%,rgb(248,159,109) 100%);
+        background: linear-gradient(to bottom,  rgb(248,159,109) 0%,rgb(245,131,69) 25%,rgb(243,100,33) 50%,rgb(245,131,69) 75%,rgb(248,159,109) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f89f6d', endColorstr='#f89f6d',GradientType=1 );
+}
+#linkAdvertisement:hover {
+    box-shadow: 0px 3px 10px rgba(0,0,0,0.8);
+}
+
+a.link_to_crm,
+a.link_to_crm:visited,
+a.link_to_crm:hover {
+    color: #ff6a00 !important;
+    text-decoration: none;
+}

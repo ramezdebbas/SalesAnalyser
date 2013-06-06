@@ -1,0 +1,9 @@
+An application providing you the details of sales of company tracking, how to organize you company’s budget. Here is a solution by using this application you can analyze your sales over years. You can add total revenue, average orders, or rates. And you can also get the graph report which can analyze your company sales.
+	
+Features:
+•	Organize the company’s budget.
+•	Add Revenue, average order or rates.
+•	Show the graph report of sales over years.
+•	Analyse the report.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
